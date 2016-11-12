@@ -1,0 +1,18 @@
+17
+Harry Potter	Stag	Gryffindor
+Hermione Granger	Otter	Gryffindor
+Ron Weasley	Jack Russell Terrier	Gryffindor
+Ginny Weasley	Horse	Gryffindor
+Luna Lovegood	Hare	Ravenclaw
+Cho Chang	Swan	Ravenclaw
+Nymphadora Tonks	Immense Four-Legged Creature	Hufflepuff
+Severus Snape	Doe	Slytherin
+Lily Evans	Doe	Gryffindor
+James Potter	Stag	Gryffindor
+Albus Dumbledore	Phoenix	Gryffindor
+Aberforth Dumbledore	Goat	Gryffindor
+Remus Lupin	Wolf	Gryffindor
+Minerva McGonagall	Cat	Gryffindor
+Dolores Umbridge	Cat	Slytherin
+Seamus Finnegan	Fox	Gryffindor
+Arthur Weasley	Weasel	Gryffindor

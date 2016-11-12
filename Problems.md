@@ -29,3 +29,5 @@ Create a new Java Project inside Eclipse, called “Practice.” For each proble
 5. Write a method that takes in a string, and prints out “Hello, {NAME}!” The method does not return anything. If “Calla” was passed into the method, the program would print out, “Hello, Calla!”
 
 6. Write a method that takes in a string, and returns that string after extracting all of its vowels. You may create a separate isVowel method if you please.
+
+Patronus Search: Write a program that asks a user to input a patronus, and then outputs the name of a witch or wizard who produces it and their Hogwarts house. Example: The user inputs "doe" and the program outputs "Severus Snape" and "Slytherin." Use the file "data.txt" for the patronus/witch/wizard/house data. You may not alter the data, or hardcode it into your program. Rather, your program must read data from the file. 
