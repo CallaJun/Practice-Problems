@@ -30,4 +30,9 @@ Create a new Java Project inside Eclipse, called “Practice.” For each proble
 
 6. Write a method that takes in a string, and returns that string after extracting all of its vowels. You may create a separate isVowel method if you please.
 
-Patronus Search: Write a program that asks a user to input a patronus, and then outputs the name of a witch or wizard who produces it and their Hogwarts house. Example: The user inputs "doe" and the program outputs "Severus Snape" and "Slytherin." Use the file "data.txt" for the patronus/witch/wizard/house data. You may not alter the data, or hardcode it into your program. Rather, your program must read data from the file. There are many ways to solve this problem. You may use console logging and input, or you may use pop ups. You may use classes and objects to store the data, data structures like hashmaps or arrays, and more. Some may be better than others, and you should think about why certain approaches are better in some ways, and less advantageous in others. 
+7. Write a function that takes in a sentence as a string, and returns the number of times the word "noodle." Do not count words that contain "noodle" like "noodles" or "canoodle."
+"It is difficult to pick up a single noodle with chopsticks." should return 1.
+"Noodle. Noodle! NOODLE! Noodle is my dog." should return 4.
+"Noodles are great." should return 0.
+
+Patronus Search: Write a program that asks a user to input a patronus, and then outputs the name of a witch or wizard who produces it and their Hogwarts house. Example: The user inputs "doe" and the program outputs "Snape, Severus" and "Slytherin." Use the file "data.txt" for the patronus/witch/wizard/house data. You may not alter the data, or hardcode it into your program. Rather, your program must read data from the file. There are many ways to solve this problem. You may use console logging and input, or you may use pop ups. You may use classes and objects to store the data, data structures like hashmaps or arrays, and more. Some may be better than others, and you should think about why certain approaches are better in some ways, and less advantageous in others. 
